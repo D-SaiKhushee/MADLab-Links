@@ -1,7 +1,7 @@
 # MADLab-Links
 
-**PAN and PIN code Validation**       - https://github.com/D-SaiKhushee/CS23621-230701276---MADLab-Assignments/blob/main/PAN%20and%20Pin%20code%20Validation.zip
-**Username Validation**               - https://github.com/D-SaiKhushee/Username_Validate
+**PAN and PIN code Validation**       - https://github.com/D-SaiKhushee/CS23621-230701276---MADLab-Assignments/blob/main/PAN%20and%20Pin%20code%20Validation.zip \n
+**Username Validation**               - https://github.com/D-SaiKhushee/Username_Validate \n
 **REC Digital Cafe Login Validation** - https://github.com/D-SaiKhushee/CS23621-230701276---MADLab-Assignments/blob/main/REC-Digital%20Cafe%20Login%20Validation.zip
 **Temperature Conversion**            - https://github.com/D-SaiKhushee/Temperature_Conversion
 **Simple Calculator**                 - https://github.com/D-SaiKhushee/Simple_Calculator
