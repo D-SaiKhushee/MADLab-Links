@@ -2,7 +2,7 @@
 
 | Assignment | Repository |
 |---|---|
-| GUI Components | https://github.com/D-SaiKhushee/CS23621---MADLab.git |
+| GUI Components | [View](https://github.com/D-SaiKhushee/CS23621---MADLab.git) |
 | Simple Calculator | [View](https://github.com/D-SaiKhushee/Simple_Calculator) |
 | Check-In Check-Out Counter | [View](https://github.com/D-SaiKhushee/CS23621---MADLab---CheckIn-Out-Counter) |
 | BMI Calculator | [View](https://github.com/D-SaiKhushee/CS23621-230701276---MADLab-Assignments/blob/main/BMI%20Calc.zip) |
